@@ -1,4 +1,4 @@
-# 🧠 Humanizer AI CLI
+# Humanizer AI CLI
 
 A command-line tool that rewrites text to sound more **natural, human-like, and fluent** using the Gemini API.
 
@@ -27,8 +27,8 @@ humanizer-ai/
 ## Setup
 1. Clone or create this folder
 ```bash
-git clone https://github.com/yourusername/humanizer-ai.git
-cd humanizer-ai
+git clone https://github.com/tomi3-11/CLI-Content-Humanizer
+cd CLI-Content-Humanizer
 ```
 2. Install dependencies:
 ```bash
