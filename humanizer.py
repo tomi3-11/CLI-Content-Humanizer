@@ -26,6 +26,6 @@ def humanize_text(text: str, tone: str = "natural") -> str:
     {text}
     """
     
-    model = genai.GenerativeModel("models/gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-2.5-flash")
     response = model.generate_content(prompt)
     return response.text.strip() if response.text else "[No output returned]"
