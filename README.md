@@ -67,11 +67,8 @@ Output (tone: friendly):
 Our team wrapped up the project ahead of schedule - a big win for everyone involved!
 
 ```
+---
 ## License
 MIT License © 2025
-
----
-
-This version is **ready to run locally** after setting your Gemini API key.  
-Would you like me to modify it so it can also **work offline using a local model** (for times when you don’t have internet)?
+  
 
